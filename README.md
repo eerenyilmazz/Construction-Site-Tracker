@@ -1,5 +1,7 @@
-Santiye Takip Otomasyonu
+# Construction Site Tracking Automation
 
-Bu proje, inşaat ve santiye alanlarında malzeme takibi ve yönetimi için geliştirilmiş bir C# ASP.NET MVC uygulamasını içermektedir. 
+## Project Overview
+This project includes a C# ASP.NET MVC application developed for tracking and managing materials on construction and site areas.
 
-Bu proje, inşaat ve santiye yönetimi için geliştirilmiş bir takip otomasyonu sunmaktadır. Proje, C# dilinde ASP.NET MVC (Model-View-Controller) mimarisi kullanılarak geliştirilmiştir.
+## Description
+The project provides a tracking automation system developed for construction and site management. The project is built using the ASP.NET MVC (Model-View-Controller) architecture in the C# language.
